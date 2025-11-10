@@ -1,7 +1,7 @@
 blueprint:
   name: UniFi Protect Motion / Smart Detection Notifications
   domain: automation
-  source_url: "https://raw.githubusercontent.com/metril/home-assistant-blueprints/refs/heads/main/unifi-protect/notification_smart_motion_event.yaml"
+  source_url: "https://raw.githubusercontent.com/metril/home-assistant-blueprints/main/unifi-protect/notification_smart_motion_event.yaml"
   description: "## UniFi Protect Motion / Smart Detection Notifications\n\nThis blueprint
     will send push notifications to a Home Assistant mobile app when a camera detections
     motion or a\nsmart detection.\n\n### Required Settings\n\n  - UniFi Protect Detection
